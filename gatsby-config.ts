@@ -14,4 +14,8 @@ const config: GatsbyConfig = {
   ],
 }
 
+module.exports = {
+  pathPrefix: "/Jason-Lew-Personal-Site",
+}
+
 export default config
