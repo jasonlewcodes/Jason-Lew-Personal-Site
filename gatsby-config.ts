@@ -16,6 +16,15 @@ const config: GatsbyConfig = {
 
 module.exports = {
   pathPrefix: "/Jason-Lew-Personal-Site",
+  plugins: [
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        icon: 'src/images/jason.jpeg',
+        include_favicon: true,
+      },
+    },
+  ]
 }
 
 export default config

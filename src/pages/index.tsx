@@ -1,4 +1,5 @@
-import * as React from "react"
+import * as React from "react";
+import type { HeadFC } from "gatsby";
 import About from "../components/about";
 import Contact from "../components/contact";
 import Header from "../components/header";
@@ -18,3 +19,5 @@ const IndexPage = () => {
 }
 
 export default IndexPage
+
+export const Head: HeadFC = () => <title>Homepage - Jason Lew</title>
