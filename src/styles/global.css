@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  p {
+    @apply text-2xl
+  }
+}
+
+@layer components {
+  .container-default {
+    @apply container rounded-2xl p-6 mx-auto w-full md:w-2/3 lg:max-w-screen-md text-center my-4
+  }
+}
