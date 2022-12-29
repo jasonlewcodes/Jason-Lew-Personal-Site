@@ -59,7 +59,7 @@ const Projects = () => {
         Looking for personalized product recommendations? Check out PerfectRec!
         <br/>
         <br/>
-        I am Software Engineering Intern at PerfectRec. I've developed the back &#38; 
+        I am a Software Engineering Intern at PerfectRec. I've developed the back &#38; 
         skip button in the question tray UI, the back of the product card, the product
         comparison tool, the purchase modal, internal development tools, multiple 
         features of the upcoming laptop recommendation page, and more!
