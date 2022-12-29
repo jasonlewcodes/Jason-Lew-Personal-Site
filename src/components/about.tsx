@@ -1,34 +1,47 @@
 import * as React from "react";
 import Container from "./container";
+// @ts-ignore
 import ProfilePicture from '../images/jason.jpeg';
 
 const About = () => {
   return (
-    <Container
-      className="bg-white bg-opacity-50 border-solid border-2 border-black"
-      id="about"
-    >
-      <div className="text-xl font-bold mb-2">
+    <Container id="about">
+      <div className="title mb-2">
         About
       </div>
-      <div className="md:grid md:grid-cols-2 text-sm md:text-md">
+      <div className="md:grid md:grid-cols-2 text-sm">
         <div className="flex">
-          <img className="w-48 h-48 md:w-72 md:h-72 rounded-full mx-auto my-auto pb-2 md:pb-0" src={ProfilePicture}/>
+          <img className="border h-48 md:h-72 rounded-full mx-auto md:pb-0 mb-2 md:my-auto" src={ProfilePicture}/>
         </div>
         <div>
-          Hi there! My name is Jason Lew.
+          <span className="font-bold">
+            Hi there!&nbsp;
+          </span>
+          My name is&nbsp;
+          <span className="font-bold">
+            Jason Lew.
+          </span>
           <br/>
           <br/>
-          I am a second-year Computer Science student
-          at the&nbsp;
+          I am a second-year&nbsp;
+          <span className="underline">
+            Computer Science
+          </span>
+          &nbsp;student at the&nbsp;
           <span className="font-bold">
             Albert Dorman Honors College at New Jersey Institute of 
             Technology
           </span>
-          , double minoring in Applied Statistics and Business.
+          , double minoring in&nbsp;
+          <span className="underline">
+            Applied Statistics and Business.
+          </span>
           <br/>
           <br/>
-          My main career interests are Software Development and Data Science.
+          My main career interests are&nbsp;
+          <span className="underline">
+            Software Development and Data Science.
+          </span>
           <br/>
           <br/>
           Below, you can view projects that I have worked on.

@@ -5,9 +5,6 @@ module.exports = {
     "./src/components/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    // fontFamily: {
-    //   sans: ["Garet"],
-    // },
     extend: {
       colors: {
         'regal-blue': '#243c5a',

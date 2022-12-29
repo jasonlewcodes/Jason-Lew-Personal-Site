@@ -7,13 +7,11 @@ import Projects from "../components/projects";
 
 const IndexPage = () => {
   return (
-    <div className="bg-gradient-to-br from-cyan-500 to-blue-500 pb-2 min-h-screen" id="top">
-      <>
-        <Header/>
-        <About/>
-        <Projects/>
-        <Contact/>
-      </>
+    <div className="bg-gradient-to-br from-cyan-300 to-blue-500 bg-black pb-2 min-h-screen" id="top">
+      <Header/>
+      <About/>
+      <Projects/>
+      <Contact/>
     </div>
   );
 }
