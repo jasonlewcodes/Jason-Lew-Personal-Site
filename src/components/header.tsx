@@ -7,7 +7,7 @@ import Resume from '../assets/resume.pdf';
 
 const Header = () => {
   return (
-    <div className="flex bg-slate-100 sticky top-0 border w-full text-sm py-2 justify-center gap-2 md:gap-6 z-10">
+    <div className="flex bg-slate-100 sticky top-0 border-black border-b-2 w-full text-sm py-2 justify-center gap-2 md:gap-6 z-10">
       <div className="flex">
         <img className="w-6 h-6 rounded-full mx-auto my-auto mr-2 border-black border-[1px]" src={ProfilePicture}/>
         Jason Lew

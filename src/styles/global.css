@@ -9,9 +9,6 @@
   .subtitle {
     @apply text-lg underline
   }
-  .border {
-    @apply border-black border-2
-  }
 }
 
 @layer components {

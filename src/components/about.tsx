@@ -11,7 +11,7 @@ const About = () => {
       </div>
       <div className="md:grid md:grid-cols-2 text-sm">
         <div className="flex">
-          <img className="border h-48 md:h-72 rounded-full mx-auto md:pb-0 mb-2 md:my-auto" src={ProfilePicture}/>
+          <img className="border-black border-2 h-48 md:h-72 rounded-full mx-auto md:pb-0 mb-2 md:my-auto" src={ProfilePicture}/>
         </div>
         <div>
           <span className="font-bold">
