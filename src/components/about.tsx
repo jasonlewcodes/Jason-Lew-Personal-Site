@@ -1,7 +1,7 @@
 import * as React from "react";
 import Container from "./container";
 // @ts-ignore
-import ProfilePicture from '../images/jason.jpeg';
+import ProfilePicture from '../images/jason.jpg';
 
 const About = () => {
   return (

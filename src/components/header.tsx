@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link }  from 'react-scroll';
 // @ts-ignore
-import ProfilePicture from '../images/jason.jpeg';
+import ProfilePicture from '../images/jason.jpg';
 // @ts-ignore
 import Resume from '../assets/resume.pdf';
 
