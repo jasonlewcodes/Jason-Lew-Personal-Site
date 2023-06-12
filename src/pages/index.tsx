@@ -7,15 +7,18 @@ import Projects from "../components/projects";
 
 const IndexPage = () => {
   return (
-    <div className="bg-gradient-to-br from-cyan-300 to-blue-500 bg-black pb-2 min-h-screen" id="top">
-      <Header/>
-      <About/>
-      <Projects/>
-      <Contact/>
+    <div
+      className="bg-gradient-to-br from-cyan-300 to-blue-500 bg-black pb-2 min-h-screen"
+      id="top"
+    >
+      <Header />
+      <About />
+      <Projects />
+      <Contact />
     </div>
   );
-}
+};
 
-export default IndexPage
+export default IndexPage;
 
-export const Head: HeadFC = () => <title>Homepage - Jason Lew</title>
+export const Head: HeadFC = () => <title>Homepage - Jason Lew</title>;
