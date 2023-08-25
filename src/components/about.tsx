@@ -1,6 +1,7 @@
 import * as React from "react";
 import Container from "./container";
-// @ts-ignore
+import { withPrefix } from "gatsby";
+//@ts-ignore
 import ProfilePicture from "../images/jason.jpg";
 
 const About = () => {
@@ -11,7 +12,7 @@ const About = () => {
         <div className="flex">
           <img
             className="border-black border-2 h-48 md:h-72 rounded-full mx-auto md:pb-0 mb-2 md:my-auto"
-            src={ProfilePicture}
+            src={withPrefix(ProfilePicture)}
           />
         </div>
         <div>
@@ -30,16 +31,23 @@ const About = () => {
           <br />
           <br />
           My main career interest is&nbsp;
-          <span className="underline">Software Development.</span>
+          <span className="underline">Software Engineering.</span>
           <br />
           <br />
-          Currently, I am a Software Development Intern at&nbsp;
-          <span className="underline">UPS</span>, and I've worked as a Software
-          Engineering Intern at&nbsp;
-          <span className="underline">PerfectRec.</span>
+          Currently, I am a Software Engineering Intern at&nbsp;
+          <span className="underline">PerfectRec</span>, and I've worked as a
+          Software Engineering Intern at&nbsp;
+          <span className="underline">UPS.</span>
           <br />
           <br />
-          Below, you can view projects that I have worked on.
+          Incoming Software Engineering &#38; Data Co-Op at&nbsp;
+          <span className="underline">Prudential</span>
+          &nbsp;and Software Engineer Intern at&nbsp;
+          <span className="underline">Walmart Global Tech.</span>
+          <br />
+          <br />
+          Below, you can view my work experience and projects that I have worked
+          on.
           <br />
           <br />
           In my free time, I enjoy working out, listening to music, and spending

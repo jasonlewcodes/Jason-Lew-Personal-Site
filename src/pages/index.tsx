@@ -4,6 +4,7 @@ import About from "../components/about";
 import Contact from "../components/contact";
 import Header from "../components/header";
 import Projects from "../components/projects";
+import Experience from "../components/experience";
 
 const IndexPage = () => {
   return (
@@ -13,6 +14,7 @@ const IndexPage = () => {
     >
       <Header />
       <About />
+      <Experience />
       <Projects />
       <Contact />
     </div>
