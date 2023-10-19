@@ -41,9 +41,7 @@ const About = () => {
           <br />
           <br />
           Incoming Software Engineering &#38; Data Co-Op at&nbsp;
-          <span className="underline">Prudential</span>
-          &nbsp;and Software Engineer Intern at&nbsp;
-          <span className="underline">Walmart Global Tech.</span>
+          <span className="underline">Prudential</span>.
           <br />
           <br />
           Below, you can view my work experience and projects that I have worked
