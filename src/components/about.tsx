@@ -41,7 +41,9 @@ const About = () => {
           <br />
           <br />
           Incoming Software Engineering &#38; Data Co-Op at&nbsp;
-          <span className="underline">Prudential</span>.
+          <span className="underline">Prudential</span>
+          &nbsp;and Incoming Software Engineer Intern at&nbsp;
+          <span className="underline">Capital One</span>.
           <br />
           <br />
           Below, you can view my work experience and projects that I have worked
