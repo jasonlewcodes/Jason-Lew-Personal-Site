@@ -22,6 +22,18 @@ const Projects = () => {
       </Description>
       <br />
       <Description
+        href="https://careers.jpmorgan.com/us/en/students/programs/code-for-good"
+        title="DocuParse - JPMorgan Chase Code for Good"
+      >
+        My team of 6 college students constructed a web application to automate volunteer scheduling for 
+        events via a scheduling algorithm for the American Council of the Blind using React,
+        JavaScript, HTML, CSS, Flask, and Python.
+        <br />
+        <br />
+        We were able to cut down 3 hours of manual labor into seconds, and we also won against 5 competing projects!
+      </Description>
+      <br />
+      <Description
         href="https://github.com/jasonlewcodes/Cervical-Cancer-Classification"
         title="Cervical Cancer Classification"
       >
