@@ -26,7 +26,7 @@ const About = () => {
           <span className="font-bold">
             Albert Dorman Honors College at New Jersey Institute of Technology
           </span>
-          , double minoring in&nbsp;
+          , minoring in&nbsp;
           <span className="underline">Applied Statistics and Business.</span>
           <br />
           <br />
