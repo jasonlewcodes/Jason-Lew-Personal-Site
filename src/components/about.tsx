@@ -34,15 +34,15 @@ const About = () => {
           <span className="underline">Software Engineering.</span>
           <br />
           <br />
-          Currently, I am a Software Engineering Intern at&nbsp;
-          <span className="underline">PerfectRec</span>, and I've worked as a
-          Software Engineering Intern at&nbsp;
-          <span className="underline">UPS.</span>
+          Currently, I am a Software Engineering & Data Co-Op at&nbsp;
+          <span className="underline">Prudential Financial</span>, and I've
+          worked as a Software Engineering Intern at&nbsp;
+          <span className="underline">UPS</span>
+          &nbsp;and&nbsp;
+          <span className="underline">PerfectRec.</span>
           <br />
           <br />
-          Incoming Software Engineering &#38; Data Co-Op at&nbsp;
-          <span className="underline">Prudential</span>
-          &nbsp;and Incoming Software Engineer Intern at&nbsp;
+          Incoming Software Engineer Intern at&nbsp;
           <span className="underline">Capital One</span>.
           <br />
           <br />

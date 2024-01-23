@@ -4,7 +4,7 @@ import { withPrefix } from "gatsby";
 // @ts-ignore
 import ProfilePicture from "../images/jason.jpg";
 // @ts-ignore
-import Resume from "../assets/resume.pdf";
+// import Resume from "../assets/resume.pdf";
 
 const Header = () => {
   return (
@@ -47,9 +47,9 @@ const Header = () => {
       >
         Projects
       </Link>
-      <a target="_blank" href={withPrefix(Resume)}>
+      {/* <a target="_blank" href={withPrefix(Resume)}>
         Resume
-      </a>
+      </a> */}
       <Link
         activeClass="active"
         to="contact"
