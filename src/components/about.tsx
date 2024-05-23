@@ -20,7 +20,7 @@ const About = () => {
           My name is&nbsp;
           <span className="font-bold">Jason Lew.</span>
           <br />
-          <br />I am a third-year&nbsp;
+          <br />I am a fourth-year&nbsp;
           <span className="underline">Computer Science</span>
           &nbsp;student at the&nbsp;
           <span className="font-bold">
@@ -34,16 +34,14 @@ const About = () => {
           <span className="underline">Software Engineering.</span>
           <br />
           <br />
-          Currently, I am a Software Engineering & Data Co-Op at&nbsp;
-          <span className="underline">Prudential Financial</span>, and I've
-          worked as a Software Engineering Intern at&nbsp;
+          Currently, I am a Software Engineering Intern at&nbsp;
+          <span className="underline">Capital One</span>, and I've worked as a
+          Software Engineering Intern at&nbsp;
+          <span className="underline">Prudential Financial</span>
+          ,&nbsp;
           <span className="underline">UPS</span>
           &nbsp;and&nbsp;
           <span className="underline">PerfectRec.</span>
-          <br />
-          <br />
-          Incoming Software Engineer Intern at&nbsp;
-          <span className="underline">Capital One</span>.
           <br />
           <br />
           Below, you can view my work experience and projects that I have worked
@@ -53,19 +51,6 @@ const About = () => {
           In my free time, I enjoy working out, listening to music, and spending
           time with friends.
           <br />
-          <br />
-          Favorite song currently:
-          <br />
-          <br />
-          <iframe
-            className="rounded-xl"
-            src="https://open.spotify.com/embed/track/5e0vgBWfwToyphURwynSXa?utm_source=generator"
-            width="100%"
-            height="152"
-            frameBorder="0"
-            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy"
-          ></iframe>
           <br />
           Feel free to contact me via any sources linked below!
         </div>

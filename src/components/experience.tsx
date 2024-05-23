@@ -11,10 +11,12 @@ const Projects = () => {
       <div className="title mb-2">Work Experience</div>
       <Description
         title="Prudential Financial"
-        href="https://www.prudential.com/employers/financial-wellness"
+        href="https://www.prudential.com/"
       >
-        I am a Software Engineering & Data Co-Op at Prudential Financial,
-        working on Financial Wellness.
+        I have previously worked as a Software Engineering & Data Co-Op at
+        Prudential Financial. I resolved 12+ ADA compliance issues, and created
+        a React proof of concept to replace the Angular-based Life Insurance
+        Calculator using TypeScript, HTML, CSS, Angular, and React.
       </Description>
       <br />
       <Description title="PerfectRec" href="https://www.perfectrec.com/">
@@ -29,7 +31,8 @@ const Projects = () => {
         I've developed the back &#38; skip button in the question tray UI, the
         back of the product card, the product comparison tool, the purchase
         modal, internal development tools, multiple features of the laptop
-        recommendation page, and more!
+        recommendation page, custom product information web scraping, sitewide
+        image error handling, admin tools, and more!
         <br />
         <br />
         At PerfectRec, my tech stack includes: JavaScript &#38; TypeScript,
