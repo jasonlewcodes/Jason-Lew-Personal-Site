@@ -13,6 +13,6 @@
 
 @layer components {
   .container-default {
-    @apply container rounded-2xl p-6 mx-auto w-full lg:w-2/3 lg:max-w-screen-lg text-center my-4 shadow-red-500/50 shadow-lg bg-white bg-opacity-50 border-2 border-black
+    @apply container rounded-2xl p-6 mx-auto lg:w-2/3 lg:max-w-screen-lg text-center my-4 shadow-red-500/50 shadow-lg bg-white bg-opacity-50 border-2 border-black
   }
 }

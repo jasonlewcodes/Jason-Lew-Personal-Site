@@ -14,16 +14,16 @@ const Header = () => {
           className="w-6 h-6 rounded-full mx-auto my-auto mr-2 border-black border-[1px]"
           src={withPrefix(ProfilePicture)}
         />
-        Jason Lew
+        <div className="my-auto">Jason Lew</div>
       </div>
-      <div>|</div>
+      <div className="my-auto">|</div>
       <Link
         activeClass="active"
         to="about"
         spy={true}
         smooth={true}
         offset={-40}
-        className="cursor-pointer"
+        className="cursor-pointer my-auto"
       >
         About
       </Link>
@@ -33,7 +33,7 @@ const Header = () => {
         spy={true}
         smooth={true}
         offset={-40}
-        className="cursor-pointer"
+        className="cursor-pointer my-auto"
       >
         Experience
       </Link>
@@ -43,7 +43,7 @@ const Header = () => {
         spy={true}
         smooth={true}
         offset={-40}
-        className="cursor-pointer"
+        className="cursor-pointer my-auto"
       >
         Projects
       </Link>
@@ -56,7 +56,7 @@ const Header = () => {
         spy={true}
         smooth={true}
         offset={-40}
-        className="cursor-pointer"
+        className="cursor-pointer my-auto"
       >
         Contact
       </Link>

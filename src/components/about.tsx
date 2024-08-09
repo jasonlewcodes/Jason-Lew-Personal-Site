@@ -34,9 +34,10 @@ const About = () => {
           <span className="underline">Software Engineering.</span>
           <br />
           <br />
-          Currently, I am a Software Engineering Intern at&nbsp;
-          <span className="underline">Capital One</span>, and I've worked as a
+          Incoming Software Engineering Intern at Sayari. I've worked as a
           Software Engineering Intern at&nbsp;
+          <span className="underline">Capital One</span>
+          ,&nbsp;
           <span className="underline">Prudential Financial</span>
           ,&nbsp;
           <span className="underline">UPS</span>

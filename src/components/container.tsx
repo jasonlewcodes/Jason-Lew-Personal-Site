@@ -8,8 +8,10 @@ export interface ContainerProps {
 
 const Container = (props: ContainerProps) => {
   return (
-    <div className={`container-default ${props.className}`} id={props.id}>
-      {props.children}
+    <div className="mx-4">
+      <div className={`container-default ${props.className}`} id={props.id}>
+        {props.children}
+      </div>
     </div>
   );
 };
