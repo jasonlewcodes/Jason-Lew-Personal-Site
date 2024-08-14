@@ -26,8 +26,8 @@ const About = () => {
           <span className="font-bold">
             Albert Dorman Honors College at New Jersey Institute of Technology
           </span>
-          , minoring in&nbsp;
-          <span className="underline">Applied Statistics and Business.</span>
+          &nbsp;with a minor in&nbsp;
+          <span className="underline">Business.</span>
           <br />
           <br />
           My main career interest is&nbsp;
