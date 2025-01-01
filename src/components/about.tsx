@@ -34,7 +34,7 @@ const About = () => {
           <span className="underline">Software Engineering.</span>
           <br />
           <br />
-          Incoming Software Engineering Intern at Sayari. I've worked as a
+          Current Software Engineering Intern at Sayari. I've worked as a
           Software Engineering Intern at&nbsp;
           <span className="underline">Capital One</span>
           ,&nbsp;

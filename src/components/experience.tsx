@@ -24,10 +24,10 @@ const Projects = () => {
         href="https://sayari.com/"
         images={[Sayari]}
         position="Software Engineering Intern"
-        dates="September 2024 - December 2024"
+        dates="September 2024 - Present"
       >
         <div className="my-auto">
-          Incoming Software Engineering Intern at Sayari.
+          Working on Sayari Graph - Backend Software Engineering
         </div>
       </Description>
       <Divider />
